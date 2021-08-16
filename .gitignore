@@ -1,10 +1,6 @@
-
-*.json
+Debug/
+bin/
+obj/
+/build/
 *.dll
-*.exe
-*.pdb
-*.props
-*.targets
-*.cs
-*.cache
-*.txt
+*.json
