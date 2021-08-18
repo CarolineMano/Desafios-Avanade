@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Cálculo_de_média_escolar</RootNamespace>
+    <RootNamespace>Media1</RootNamespace>
   </PropertyGroup>
 
 </Project>

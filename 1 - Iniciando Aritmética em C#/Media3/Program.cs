@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Cálcuo_de_média_escolar_3
+namespace Media3
 {
     class Program
     {
