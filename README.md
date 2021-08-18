@@ -10,13 +10,18 @@ Iniciando aritmética em C# | Nível
 [Média 2](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media2) | Intermediário
 [Média 3](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media3) | Intermediário
 
----
+<br />
 
+Desafios matemáticos em C# | Nível
+------------ | -------------
+[Consumo Médio do Automóvel](https://github.com/CarolineMano/Desafios_Avanade/tree/master/2%20-%20Desafios%20Matem%C3%A1ticos%20em%20C%23/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel) | Básico
+
+---
 ## :memo: Descrição dos exercícios 
 
 ## Média 1
 
-**Descrição**  
+**Desafio**  
 Leia 2 valores de ponto flutuante de dupla precisão A e B, que correspondem a 2 notas de um aluno. A seguir, calcule a média do aluno, sabendo que a nota A tem peso 3.5 e a nota B tem peso 7.5 (A soma dos pesos portanto é 11). Assuma que cada nota pode ir de 0 até 10.0, sempre com uma casa decimal.  
 
 **Entrada**  
@@ -38,7 +43,7 @@ Exemplo de Entrada | Exemplo de Saída
 
 ## Média 2
 
-**Descrição**  
+**Desafio**  
 Leia 3 valores, no caso, variáveis A, B e C, que são as três notas de um aluno. A seguir, calcule a média do aluno, sabendo que a nota A tem peso 2, a nota B tem peso 3 e a nota C tem peso 5. Considere que cada nota pode ir de 0 até 10.0, sempre com uma casa decimal.
 
 **Entrada**  
@@ -59,8 +64,7 @@ Exemplo de Entrada | Exemplo de Saída
 
 ## Média 3
 
-**Descrição**  
-
+**Desafio**  
 
 Leia quatro números (N1, N2, N3, N4), cada um deles com uma casa decimal, correspondente às quatro notas de um aluno. Calcule a média com pesos 2, 3, 4 e 1, respectivamente, para cada uma destas notas e mostre esta média acompanhada pela mensagem "Media: ". Se esta média for maior ou igual a 7.0, imprima a mensagem "Aluno aprovado.". Se a média calculada for inferior a 5.0, imprima a mensagem "Aluno reprovado.". Se a média calculada for um valor entre 5.0 e 6.9, inclusive estas, o programa deve imprimir a mensagem "Aluno em exame.".
 
@@ -80,5 +84,26 @@ Exemplo de Entrada | Exemplo de Saída
 9.0 4.0 8.5 9.0 | Media: 7.3 <br /> Aluno aprovado.
 
 [Visualizar Código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media3/Program.cs)  
+
+---
+
+## Consumo médio do automóvel
+
+**Desafio**
+Você deve calcular o consumo médio de um automóvel onde será informada a distância total percorrida (em Km) e o total de combustível consumido (em litros).
+
+**Entrada**
+Você receberá dois valores: um valor inteiro X com a distância total percorrida (em Km), e um valor real Y que representa o total de combustível consumido, com um dígito após o ponto decimal.
+
+**Saída**
+Exiba o valor que representa o consumo médio do automóvel (3 casas após a vírgula), incluindo no final a mensagem "km/l".
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+500 <br /> 35.0 | 14.286 km/l
+2254 <br /> 124.4 | 18.119 km/l
+4554 <br /> 464.6 | 9.802 km/l
+
+[Visualizar código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/2%20-%20Desafios%20Matem%C3%A1ticos%20em%20C%23/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel/Program.cs)
 
 ---
