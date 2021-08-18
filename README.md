@@ -6,15 +6,15 @@
 
 Iniciando aritmética em C# | Nível
 ------------ | -------------
-[Média 1](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media1) | Intermediário
-[Média 2](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media2) | Intermediário
-[Média 3](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media3) | Intermediário
+[Média 1](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritmetica%20em%20C%23/Media1) | Intermediário
+[Média 2](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritmetica%20em%20C%23/Media2) | Intermediário
+[Média 3](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritmetica%20em%20C%23/Media3) | Intermediário
 
 <br />
 
 Desafios matemáticos em C# | Nível
 ------------ | -------------
-[Consumo Médio do Automóvel](https://github.com/CarolineMano/Desafios_Avanade/tree/master/2%20-%20Desafios%20Matem%C3%A1ticos%20em%20C%23/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel) | Básico
+[Consumo Médio do Automóvel](https://github.com/CarolineMano/Desafios_Avanade/tree/master/2%20-%20Desafios%20Matematicos%20em%20C%23/Consumo%20Medio%20do%20Automovel) | Básico
 
 ---
 ## :memo: Descrição dos exercícios 
@@ -37,7 +37,7 @@ Exemplo de Entrada | Exemplo de Saída
 10.0 <br /> 10.0 | MEDIA = 10.00000
 
 
-[Visualizar Código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media1/Program.cs)  
+[Visualizar Código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/1%20-%20Iniciando%20Aritmetica%20em%20C%23/Media1/Program.cs)  
 
 ---
 
@@ -58,7 +58,7 @@ Exemplo de Entrada | Exemplo de Saída
 5.0 <br /> 10.0 <br /> 10.0 | MEDIA = 9.0
 10.0 <br /> 10.0 <br /> 5.0 | MEDIA = 7.5
 
-[Visualizar Código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media2/Program.cs)  
+[Visualizar Código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/1%20-%20Iniciando%20Aritmetica%20em%20C%23/Media2/Program.cs)  
 
 ---
 
@@ -83,7 +83,7 @@ Exemplo de Entrada | Exemplo de Saída
 2.0 6.5 4.0 9.0 | Media: 4.9 <br /> Aluno reprovado.
 9.0 4.0 8.5 9.0 | Media: 7.3 <br /> Aluno aprovado.
 
-[Visualizar Código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media3/Program.cs)  
+[Visualizar Código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/1%20-%20Iniciando%20Aritmetica%20em%20C%23/Media3/Program.cs)  
 
 ---
 
@@ -104,6 +104,6 @@ Exemplo de Entrada | Exemplo de Saída
 2254 <br /> 124.4 | 18.119 km/l
 4554 <br /> 464.6 | 9.802 km/l
 
-[Visualizar código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/2%20-%20Desafios%20Matem%C3%A1ticos%20em%20C%23/Consumo%20M%C3%A9dio%20do%20Autom%C3%B3vel/Program.cs)
+[Visualizar código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/2%20-%20Desafios%20Matematicos%20em%20C%23/Consumo%20Medio%20do%20Automovel/Program.cs)
 
 ---
