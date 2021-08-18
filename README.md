@@ -16,6 +16,7 @@ Desafios matemáticos em C# | Nível
 ------------ | -------------
 [Consumo Médio do Automóvel](https://github.com/CarolineMano/Desafios_Avanade/tree/master/2%20-%20Desafios%20Matematicos%20em%20C%23/Consumo%20Medio%20do%20Automovel) | Básico
 [Validação de Notas](https://github.com/CarolineMano/Desafios_Avanade/tree/master/2%20-%20Desafios%20Matematicos%20em%20C%23/Validacao%20de%20Notas) | Intermediário
+[Pedro Bento e o Mundo de Oz](https://github.com/CarolineMano/Desafios_Avanade/tree/master/2%20-%20Desafios%20Matematicos%20em%20C%23/Pedro%20Bento%20e%20o%20Mundo%20de%20Oz) | Básico
 
 ---
 ## :memo: Descrição dos exercícios 
@@ -133,3 +134,26 @@ Exemplo de Entrada | Exemplo de Saída
 -3.5 <br />3.5 <br />11.0 <br />10.0 <br />4 <br />1 <br />8.0 <br />9.0 <br />2 | nota invalida <br />nota invalida <br />media = 6.75 <br />novo calculo <br /> (1-sim 2-nao) <br /> novo calculo <br /> (1-sim 2-nao) <br /> media = 8.50 <br /> novo calculo <br /> (1-sim 2-nao)
 
 [Visualizar código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/2%20-%20Desafios%20Matematicos%20em%20C%23/Validacao%20de%20Notas/Program.cs)
+
+---
+
+## Pedro Bento e o Mundo de Oz
+
+**Desafio**
+No jogo "O Mundo de Oz", Pedro Bento é o líder do Tribunal, por causa disso ele é uma das pessoas mais importantes do mundo. Além disso, Pedro Bento possui um grande tesouro, o qual possui diversos tipos de joias.
+
+Pedro Bento está muito curioso para saber quantos tipos de joias diferentes seu tesouro possui.
+
+Sabendo que você é o melhor programador do mundo, Pedro Bento te contratou para verificar quantos tipos de joias distintas ele tem em seu tesouro.
+
+**Entrada**
+A entrada consiste de várias linhas e cada uma contém uma string que descreve uma das jóias de Pedro Bento. Essa string é composta apenas dos caracteres '(' e ')', a soma do tamanho de todas as string não excede 106.
+
+**Saída**
+Imprima quantos tipos de jóias distintas Pedro Bento possui.
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+(( <br />)) <br />(( <br />)) <br /> ( | 3
+
+[Visualizar código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/2%20-%20Desafios%20Matematicos%20em%20C%23/Pedro%20Bento%20e%20o%20Mundo%20de%20Oz/Program.cs)
