@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Consumo_Médio_do_Automóvel
+namespace Consumo_Medio_do_Automovel
 {
     class Program
     {

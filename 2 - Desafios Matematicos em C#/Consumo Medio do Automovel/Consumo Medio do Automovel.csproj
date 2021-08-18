@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Consumo_Médio_do_Automóvel</RootNamespace>
+    <RootNamespace>Consumo_Medio_do_Automovel</RootNamespace>
   </PropertyGroup>
 
 </Project>
