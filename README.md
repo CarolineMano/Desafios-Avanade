@@ -6,9 +6,9 @@
 
 Iniciando aritmética em C# | Nível
 ------------ | -------------
-[Média 1](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/C%C3%A1lculo%20de%20m%C3%A9dia%20escolar) | Intermediário
-[Média 2](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/C%C3%A1lculo%20de%20m%C3%A9dia%20escolar%202) | Intermediário
-[Média 3](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/C%C3%A1lcuo%20de%20m%C3%A9dia%20escolar%203) | Intermediário
+[Média 1](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media1) | Intermediário
+[Média 2](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media2) | Intermediário
+[Média 3](https://github.com/CarolineMano/Desafios_Avanade/tree/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media3) | Intermediário
 
 ---
 
@@ -32,7 +32,7 @@ Exemplo de Entrada | Exemplo de Saída
 10.0 <br /> 10.0 | MEDIA = 10.00000
 
 
-[Visualizar Código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/C%C3%A1lculo%20de%20m%C3%A9dia%20escolar/Program.cs)  
+[Visualizar Código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media1/Program.cs)  
 
 ---
 
@@ -53,7 +53,7 @@ Exemplo de Entrada | Exemplo de Saída
 5.0 <br /> 10.0 <br /> 10.0 | MEDIA = 9.0
 10.0 <br /> 10.0 <br /> 5.0 | MEDIA = 7.5
 
-[Visualizar Código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/C%C3%A1lculo%20de%20m%C3%A9dia%20escolar%202/Program.cs)  
+[Visualizar Código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media2/Program.cs)  
 
 ---
 
@@ -79,6 +79,6 @@ Exemplo de Entrada | Exemplo de Saída
 2.0 6.5 4.0 9.0 | Media: 4.9 <br /> Aluno reprovado.
 9.0 4.0 8.5 9.0 | Media: 7.3 <br /> Aluno aprovado.
 
-[Visualizar Código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/C%C3%A1lcuo%20de%20m%C3%A9dia%20escolar%203/Program.cs)  
+[Visualizar Código](https://github.com/CarolineMano/Desafios_Avanade/blob/master/1%20-%20Iniciando%20Aritm%C3%A9tica%20em%20C%23/Media3/Program.cs)  
 
 ---
